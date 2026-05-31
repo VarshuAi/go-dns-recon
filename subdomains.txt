@@ -1,0 +1,9 @@
+www
+mail
+blog
+dev
+admin
+api
+stage
+secure
+test
