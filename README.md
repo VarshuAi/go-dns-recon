@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Perform parallel DNS subdomain discoveries concurrently using parallel lookup routines in Go.
+  name: go-dns-recon version: 1.0 type: Repository author: VarshuAi description: >   Perform parallel DNS subdomain discoveries concurrently using parallel lookup routines in Go. primary_tech: Go
 primary_tech: Go
 ```
 
